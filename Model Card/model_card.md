@@ -66,7 +66,7 @@ Logistic Regression:
 Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
 
 Clustering (K-Means, k=6):
-- How measured: Elbow Method (inertia reduction) and Silhouette Score (cohesion vs. separation).
+- How measured: Elbow Method (inertia reduction) and Silhouette Score (cohesion vs. separation). 
 Elbow method for K:![alt text](<Elbow method for K-2.png>)
 Silhouette Analysis for K:![alt text](<Silhouette Analysis for K-1.png>)
 Cluster Heatmap:![alt text](<Clusters - Heatmap.png>) 
